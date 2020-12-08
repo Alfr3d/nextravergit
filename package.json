@@ -1,0 +1,14 @@
+{
+  "name": "nextravergit-personal-dev-folio",
+  "author": {
+    "name": "Alfred Arcifa",
+    "email": "alfred.arcifa@gmail.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true
+}
