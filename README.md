@@ -1,4 +1,4 @@
-# nextravergit
+# svenextravergit
 Personal Developer Portfolio - Nextjs Strapi Vercel Github
 
 CLIENT
