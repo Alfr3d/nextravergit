@@ -4,6 +4,11 @@
 
 <script lang="ts">
 	import Counter from '$lib/Counter.svelte';
+	import axios from 'axios';
+
+	axios.get('http://localhost:1337/restaurants').then(response => {
+		console.log('data:',response);
+	});
 </script>
 
 <main>
