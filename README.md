@@ -7,7 +7,11 @@ CLIENT
   - typescript
   - sass
     - CSS Modules
+
 - https://kit.svelte.dev/
+  - yarn
+  - typescript
+  - sass
 
 CMS
 - https://strapi.io/
