@@ -10,3 +10,7 @@ Personal Developer Portfolio - Nextjs Strapi Vercel Github
   - graphql
 - https://vercel.com/
 - https://github.com/
+  - conventionalcommits.org
+
+
+[conventionalcommits.org]: https://www.conventionalcommits.org/en/v1.0.0/
