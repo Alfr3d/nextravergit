@@ -22,3 +22,7 @@ INSTALLATION
 
 REPO
 - https://github.com/
+  - conventionalcommits.org
+
+
+[conventionalcommits.org]: https://www.conventionalcommits.org/en/v1.0.0/
