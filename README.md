@@ -1,5 +1,5 @@
 # svenextravergit
-Personal Developer Portfolio - Nextjs Strapi Vercel Github
+Personal Developer Portfolio - Nextjs or SvelteKit, Strapi CMS, Vercel Installation, Github Repo
 
 CLIENT
 - https://nextjs.org/
